@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = sre 21 avg 2013 22:21:40 CEST
+
+BeginCmp
+TimeStamp = /521358A2;
+Reference = P1;
+ValeurCmp = CONN_12;
+IdModule  = SIL-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /521358B1;
+Reference = P2;
+ValeurCmp = CONN_12;
+IdModule  = SIL-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /521358CF;
+Reference = P3;
+ValeurCmp = CONN_12;
+IdModule  = SIL-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /521358C0;
+Reference = P4;
+ValeurCmp = CONN_12;
+IdModule  = SIL-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /52135819;
+Reference = U1;
+ValeurCmp = MK20LF;
+IdModule  = LQFP48;
+EndCmp
+
+EndListe
