@@ -1,29 +1,148 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = sre 21 avg 2013 22:21:40 CEST
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = čet 22 avg 2013 08:04:05 CEST
 
 BeginCmp
-TimeStamp = /521358A2;
+TimeStamp = /52153D2C;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52153BD9;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52154010;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52153D39;
+Reference = C4;
+ValeurCmp = CP1;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5215395A;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52153A2A;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /521536F4;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52152BE2;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /521548E7;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5215461D;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5215484D;
 Reference = P1;
-ValeurCmp = CONN_12;
-IdModule  = SIL-12;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
 EndCmp
 
 BeginCmp
-TimeStamp = /521358B1;
+TimeStamp = /521546FF;
 Reference = P2;
-ValeurCmp = CONN_12;
-IdModule  = SIL-12;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
 EndCmp
 
 BeginCmp
-TimeStamp = /521358CF;
+TimeStamp = /52154B84;
 Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52154B67;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5215455C;
+Reference = P5;
 ValeurCmp = CONN_12;
 IdModule  = SIL-12;
 EndCmp
 
 BeginCmp
-TimeStamp = /521358C0;
-Reference = P4;
+TimeStamp = /52154636;
+Reference = P6;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52154645;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52152DDE;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52152DCC;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52152C3F;
+Reference = RESET2;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52154575;
+Reference = RIGHT1;
 ValeurCmp = CONN_12;
 IdModule  = SIL-12;
 EndCmp
