@@ -1,8 +1,6 @@
-update=čet 22 avg 2013 08:01:50 CEST
+update=čet 22 avg 2013 10:36:52 CEST
 version=1
-last_client=pcbnew
-[general]
-version=1
+last_client=kicad
 [eeschema]
 version=1
 LibDir=
@@ -108,3 +106,5 @@ LibName14=led
 LibName15=dip_sockets
 LibName16=pga_sockets
 LibName17=valves
+[general]
+version=1
