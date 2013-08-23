@@ -36,7 +36,6 @@ LIBS:conn_16
 LIBS:conn_18
 LIBS:inductor_select
 LIBS:logo
-LIBS:mchck-cache
 LIBS:mcp1702
 LIBS:mcp73831
 LIBS:mic5205
@@ -52,6 +51,7 @@ LIBS:STM32L15x_QFN48
 LIBS:tac_switchsmd_evqp2
 LIBS:vdda
 LIBS:vssa
+LIBS:breakout-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
@@ -578,4 +578,8 @@ F 3 "" H 5200 6000 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 Connection ~ 6800 4450
+Wire Wire Line
+	7350 4900 6800 4900
+Wire Wire Line
+	6800 4900 6800 4450
 $EndSCHEMATC

@@ -1,6 +1,6 @@
-update=čet 22 avg 2013 10:36:52 CEST
+update=čet 22 avg 2013 10:42:44 CEST
 version=1
-last_client=kicad
+last_client=cvpcb
 [eeschema]
 version=1
 LibDir=
@@ -63,11 +63,6 @@ LibName50=/home/dean/Downloads/mchck-master/hardware/STM32L15x_QFN48
 LibName51=/home/dean/Downloads/mchck-master/hardware/tac_switchsmd_evqp2
 LibName52=/home/dean/Downloads/mchck-master/hardware/vdda
 LibName53=/home/dean/Downloads/mchck-master/hardware/vssa
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=breakout.net
@@ -88,7 +83,6 @@ DrawSegmentWidth="    0,200000"
 BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
-LibDir=
 LibName1=/home/dean/Downloads/mchck-master/hardware/mchck
 LibName2=sockets
 LibName3=connect
@@ -98,13 +92,18 @@ LibName6=divers
 LibName7=smd_capacitors
 LibName8=smd_resistors
 LibName9=smd_crystal&oscillator
-LibName10=smd_dil
-LibName11=smd_transistors
-LibName12=libcms
-LibName13=display
-LibName14=led
-LibName15=dip_sockets
-LibName16=pga_sockets
-LibName17=valves
+LibName10=smd_transistors
+LibName11=libcms
+LibName12=display
+LibName13=led
+LibName14=dip_sockets
+LibName15=pga_sockets
+LibName16=valves
+LibDir=
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
